@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laundry Service Hero Section
 
 ## Project Overview
@@ -77,8 +76,3 @@ git push -u origin main
 ## Author
 
 Jigyasa
-=======
-# jigyasa-task
-index.html
-index.html
->>>>>>> c5c3501d5269f539181b2327a966b913259840db
