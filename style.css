@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:white;
+}
+
+.container{
+    width: 90%;
+    height: 80vh;
+    margin: 40px auto;
+    border: 1px solid #555;
+    padding: 0 30px;
+}
+nav{
+    padding: 25px 10px;
+}
+
+.logo{
+    display:inline-block;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.menu{
+    display:inline-block;
+    list-style:none;
+    margin-left:220px;
+}
+
+.menu li{
+    display:inline;
+    margin:15px;
+    font-size:13px;
+}
+
+.user{
+    display:inline-block;
+    margin-left:220px;
+    background:#d9e1fff5;
+    padding:12px 18px;
+    border-radius:8px;
+    font-size:15x;
+    color: #1ea7ff;
+    
+}
+
+/* Hero */
+.hero{
+    margin-top:80px;
+    text-align:center;
+}
+
+.left,
+.right{
+    display:inline-block;
+    width:42%;
+    vertical-align:middle;
+}
+
+.left{
+    text-align:left;
+}
+
+.left h1{
+    font: size 55px;
+    line-height: 1.2;
+}
+
+.left span{
+    color:#1ea7ff;
+}
+
+.left p{
+    margin:20px 0;
+    color:grey;
+    font-size: 18px;
+
+}
+
+button{
+    padding:18px 30px;
+    border:none;
+    background:#1ea7ff;
+    color:white;
+    border-radius:10px;
+}
+
+.right img{
+    width: 380px;
+}
